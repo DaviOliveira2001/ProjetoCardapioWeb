@@ -1,0 +1,21 @@
+body{
+  background-color: rgb(2, 255, 242);
+}
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    color: rgb(255, 0, 0);
+}
+h2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(0, 0, 0);
+    font-size: 20pt;
+}
+p{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 14pt;/*tamanho da fonte*/
+    color:black;/*cor do texto*/
+    text-align:justify ;/*alinhamento do texto*/
+    text-indent: 20pt;/*faz o recuo da primeira linha*/
+    font-weight: 200;/*aplica um negrito na determinada linha*/
+}
